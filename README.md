@@ -1,4 +1,4 @@
 ###### blog-template-recreation
 
 #### Description
-A small side project where I recreated my Wordpress blog template (https://thefullstackdev.wordpress.com/). The recreation was by visuals only.
+A small side project where I recreated my Wordpress blog template. The recreation was by visuals only.
